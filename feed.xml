@@ -4,7 +4,7 @@
   <id>/</id>
   <title>WebDevWeb</title>
   <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-02-28T14:54:22-06:00</updated>
+  <updated>2023-02-28T15:08:02-06:00</updated>
   <author>
     <name>Matt</name>
     <uri>/</uri>
@@ -20,21 +20,21 @@
 
   
   <entry>
-    <title>Writing a New Post</title>
-    <link href="/posts/creating-static-websites-jekyll/" rel="alternate" type="text/html" title="Writing a New Post" />
-    <published>2019-08-08T01:10:00-05:00</published>
+    <title>Creating Fast Static Websites with Jekyll</title>
+    <link href="/posts/creating-static-websites-jekyll/" rel="alternate" type="text/html" title="Creating Fast Static Websites with Jekyll" />
+    <published>2023-02-28T00:10:00-06:00</published>
   
-    <updated>2019-08-08T01:10:00-05:00</updated>
+    <updated>2023-02-28T00:10:00-06:00</updated>
   
     <id>/posts/creating-static-websites-jekyll/</id>
     <content src="/posts/creating-static-websites-jekyll/" />
     <author>
-      <name>cotes</name>
+      <name>Matt</name>
     </author>
 
   
     
-    <category term="Blogging" />
+    <category term="Static Websites" />
     
     <category term="Tutorial" />
     
@@ -48,11 +48,11 @@
 
 
 
-      This tutorial will guide you how to write a post in the Chirpy template, and it’s worth reading even if you’ve used Jekyll before, as many features require specific variables to be set.
+      This article is a work in progress, with more details to come.
 
 Introduction to Jekyll and its benefits
 
-Jekyll is a static site generator that allows you to create websites without a backend or database. It uses Markdown and Liquid templating to generate HTML files for you...
+Jekyll is a static site generator that allows you to create websites without a backend or database. It uses Markdown and Liquid templating to generate HTML files for your website, making it easy to maintain and update. Some of the benefits of using Jekyll include its simplicity, speed, and s...
     </summary>
   
 
