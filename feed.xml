@@ -4,7 +4,7 @@
   <id>/</id>
   <title>WebDevWeb</title>
   <subtitle>Stay up-to-date with the latest trends and techniques in web development. Our blog offers insightful articles, tutorials, and tips to help you enhance your coding skills and create stunning websites. From front-end development to back-end architecture, we cover it all. Join our community of developers and take your web development game to the next level.</subtitle>
-  <updated>2023-03-12T21:32:14-05:00</updated>
+  <updated>2023-03-12T23:23:30-05:00</updated>
   <author>
     <name>Matt</name>
     <uri>/</uri>
@@ -82,11 +82,13 @@
 
 
 
-      This article is a work in progress, with more details to come.
+      Introduction to Jekyll and its benefits
 
-Introduction to Jekyll and its benefits
+Jekyll is a static site generator that allows you to create websites without a backend or database. It uses Markdown and Liquid templating to generate HTML files for your website, making it easy to maintain and update. Some of the benefits of using Jekyll include its simplicity, speed, and security.
 
-Jekyll is a static site generator that allows you to create websites without a backend or database. It uses Markdown and Liquid templating to generate HTML files for your website, making it easy to maintain and update. Some of the benefits of using Jekyll include its simplicity, speed, and s...
+Installing Jekyll
+
+Before you can start using Jekyll, ...
     </summary>
   
 
