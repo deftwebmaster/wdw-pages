@@ -3,7 +3,7 @@
 {
   "name": "WebDevWeb",
   "short_name": "WebDevWeb",
-  "description": "A minimal, responsive, and powerful Jekyll theme for presenting professional writing.",
+  "description": "Stay up-to-date with the latest trends and techniques in web development. Our blog offers insightful articles, tutorials, and tips to help you enhance your coding skills and create stunning websites. From front-end development to back-end architecture, we cover it all. Join our community of developers and take your web development game to the next level.",
   "icons": [
     {
       "src": "/assets/img/favicons/android-chrome-192x192.png",

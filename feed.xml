@@ -3,8 +3,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/</id>
   <title>WebDevWeb</title>
-  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
-  <updated>2023-02-28T15:11:47-06:00</updated>
+  <subtitle>Stay up-to-date with the latest trends and techniques in web development. Our blog offers insightful articles, tutorials, and tips to help you enhance your coding skills and create stunning websites. From front-end development to back-end architecture, we cover it all. Join our community of developers and take your web development game to the next level.</subtitle>
+  <updated>2023-03-12T21:12:02-05:00</updated>
   <author>
     <name>Matt</name>
     <uri>/</uri>
@@ -17,6 +17,46 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Creating Fast Static Websites with Jekyll</title>
+    <link href="/posts/top-free-blogging-platforms/" rel="alternate" type="text/html" title="Creating Fast Static Websites with Jekyll" />
+    <published>2023-02-28T00:10:00-06:00</published>
+  
+    <updated>2023-02-28T00:10:00-06:00</updated>
+  
+    <id>/posts/top-free-blogging-platforms/</id>
+    <content src="/posts/top-free-blogging-platforms/" />
+    <author>
+      <name>Matt</name>
+    </author>
+
+  
+    
+    <category term="Static Websites" />
+    
+    <category term="Tutorial" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This article is a work in progress, with more details to come.
+
+Introduction to Jekyll and its benefits
+
+Jekyll is a static site generator that allows you to create websites without a backend or database. It uses Markdown and Liquid templating to generate HTML files for your website, making it easy to maintain and update. Some of the benefits of using Jekyll include its simplicity, speed, and s...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>

@@ -2,6 +2,23 @@
   
   {
     "title": "Creating Fast Static Websites with Jekyll",
+    "url": "/posts/top-free-blogging-platforms/",
+    "categories": "Static Websites, Tutorial",
+    "tags": "jekyll, static websites",
+    "date": "2023-02-28 00:10:00 -0600",
+    
+
+
+
+
+
+    
+    "snippet": "This article is a work in progress, with more details to come.Introduction to Jekyll and its benefitsJekyll is a static site generator that allows you to create websites without a backend or databa...",
+    "content": "This article is a work in progress, with more details to come.Introduction to Jekyll and its benefitsJekyll is a static site generator that allows you to create websites without a backend or database. It uses Markdown and Liquid templating to generate HTML files for your website, making it easy to maintain and update. Some of the benefits of using Jekyll include its simplicity, speed, and security.Installing JekyllBefore you can start using Jekyll, you need to install it on your computer. Jekyll requires Ruby, so make sure you have that installed first. You can install Jekyll by running gem install jekyll in your command line. Once Jekyll is installed, you can create a new project by running jekyll new project-name.Setting up the projectOnce you have created a new Jekyll project, you’ll want to set up your project files and folders. Jekyll uses a specific file structure, so it’s important to set this up correctly. You’ll typically have a _config.yml file that contains your site’s configuration settings, as well as folders for _layouts, _includes, and assets.Creating the site structureWith your project set up, you can start creating your site structure. Jekyll uses Markdown files to create your site’s pages and posts. You’ll typically have a index.md file for your homepage, and additional Markdown files for other pages on your site. You can also create collections for grouping related content together.Adding content and styling with HTML/CSSOnce you have your site structure in place, you can start adding content and styling with HTML and CSS. Jekyll uses Liquid templating to make it easy to add dynamic content to your site. You can also use front matter to add metadata to your pages, such as the page title and description.Building and deploying the siteWith your site content and styling in place, you can build your site using the jekyll build command. This will generate your site’s HTML files in the _site folder. You can then deploy your site to a web server or hosting service, such as GitHub Pages.Conclusion and resourcesJekyll is a powerful tool for creating static websites quickly and easily. With its simple file structure, easy-to-use templating language, and fast build times, Jekyll is a great choice for small to medium-sized sites. To learn more about Jekyll, check out the official documentation and community resources.Jekyll Project"
+  },
+  
+  {
+    "title": "Creating Fast Static Websites with Jekyll",
     "url": "/posts/creating-static-websites-jekyll/",
     "categories": "Static Websites, Tutorial",
     "tags": "jekyll, static websites",
