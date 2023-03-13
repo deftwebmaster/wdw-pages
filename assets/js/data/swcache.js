@@ -11,13 +11,13 @@ const resource = [
     '/404.html',
 
     
-        '/categories/',
+        '/about/',
     
-        '/tags/',
+        '/categories/',
     
         '/archives/',
     
-        '/about/',
+        '/tags/',
     
 
     /* --- Favicons & compressed JS --- */

@@ -4,7 +4,7 @@
   <id>/</id>
   <title>WebDevWeb</title>
   <subtitle>Stay up-to-date with the latest trends and techniques in web development. Our blog offers insightful articles, tutorials, and tips to help you enhance your coding skills and create stunning websites. From front-end development to back-end architecture, we cover it all. Join our community of developers and take your web development game to the next level.</subtitle>
-  <updated>2023-03-12T23:23:30-05:00</updated>
+  <updated>2023-03-12T23:37:14-05:00</updated>
   <author>
     <name>Matt</name>
     <uri>/</uri>
@@ -47,6 +47,42 @@
 
 
       Blogging has become an integral part of the online landscape, with more people than ever creating and sharing their content. Fortunately, there are many free tools available to help bloggers create and manage their blogs. However, with so many options, it can be challenging to decide which one is best for your needs. In this post, we’ll compare some of the most popular free blogging tools to he...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Revolutionize Your Website with Static Site Generators - The Future of Web Development</title>
+    <link href="/posts/static-website-generators/" rel="alternate" type="text/html" title="Revolutionize Your Website with Static Site Generators - The Future of Web Development" />
+    <published>2023-03-12T00:10:00-06:00</published>
+  
+    <updated>2023-03-12T00:10:00-06:00</updated>
+  
+    <id>/posts/static-website-generators/</id>
+    <content src="/posts/static-website-generators/" />
+    <author>
+      <name>Matt</name>
+    </author>
+
+  
+    
+    <category term="Static Websites" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I. Introduction
+
+A static website is a website that consists of HTML, CSS, and JavaScript files that are pre-generated and served as-is to visitors. A static website generator is a tool that automates the process of creating a static website by generating HTML files from templates and content files. Static websites and generators are important because they offer several benefits over dynamic we...
     </summary>
   
 
