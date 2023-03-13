@@ -4,7 +4,7 @@
   <id>/</id>
   <title>WebDevWeb</title>
   <subtitle>Stay up-to-date with the latest trends and techniques in web development. Our blog offers insightful articles, tutorials, and tips to help you enhance your coding skills and create stunning websites. From front-end development to back-end architecture, we cover it all. Join our community of developers and take your web development game to the next level.</subtitle>
-  <updated>2023-03-12T21:12:02-05:00</updated>
+  <updated>2023-03-12T21:32:14-05:00</updated>
   <author>
     <name>Matt</name>
     <uri>/</uri>
@@ -20,11 +20,11 @@
 
   
   <entry>
-    <title>Creating Fast Static Websites with Jekyll</title>
-    <link href="/posts/top-free-blogging-platforms/" rel="alternate" type="text/html" title="Creating Fast Static Websites with Jekyll" />
-    <published>2023-02-28T00:10:00-06:00</published>
+    <title>Comparing the Top Free Blogging Platforms</title>
+    <link href="/posts/top-free-blogging-platforms/" rel="alternate" type="text/html" title="Comparing the Top Free Blogging Platforms" />
+    <published>2023-03-12T00:10:00-06:00</published>
   
-    <updated>2023-02-28T00:10:00-06:00</updated>
+    <updated>2023-03-12T00:10:00-06:00</updated>
   
     <id>/posts/top-free-blogging-platforms/</id>
     <content src="/posts/top-free-blogging-platforms/" />
@@ -34,9 +34,7 @@
 
   
     
-    <category term="Static Websites" />
-    
-    <category term="Tutorial" />
+    <category term="Blogging" />
     
   
 
@@ -48,11 +46,7 @@
 
 
 
-      This article is a work in progress, with more details to come.
-
-Introduction to Jekyll and its benefits
-
-Jekyll is a static site generator that allows you to create websites without a backend or database. It uses Markdown and Liquid templating to generate HTML files for your website, making it easy to maintain and update. Some of the benefits of using Jekyll include its simplicity, speed, and s...
+      Blogging has become an integral part of the online landscape, with more people than ever creating and sharing their content. Fortunately, there are many free tools available to help bloggers create and manage their blogs. However, with so many options, it can be challenging to decide which one is best for your needs. In this post, we’ll compare some of the most popular free blogging tools to he...
     </summary>
   
 
